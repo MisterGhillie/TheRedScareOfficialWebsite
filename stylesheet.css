@@ -10,6 +10,10 @@ h3 {
 p{
 	font-family: Impact, Charcoal, sans-serif;
 	font-size: 30px;
+	margin-left: 50px;
+}
+body{
+	margin-bottom: 80px;
 }
 table{
 	border-spacing: 1rem;
