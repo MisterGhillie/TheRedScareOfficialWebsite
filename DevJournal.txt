@@ -36,5 +36,33 @@ April 3, 2015
 The site is looking better than ever after working on it over this last week and Spring break. I have sat down with The Red Scare himself to talk about how he wants it to look. We have successfully updated his social media and he gave me the correct links to attach to the icons. As of now, they are all up to date and fully functional. The next thing we talked about was the color scheme and how we were going to apply it. I found and used a tool that allows you to pick the color of each aspect of the navbar and it will generate the css code to copy and paste into Bootstrap. The color has since been changed from Black to a deep red to the theme of his name. As for content, the News, Contact, and About pages have been updated with the News and About pages containing a article-like scheme. The last update I made was adding the "favicon" to the title of page with help from Mr. Schreiber. The next step for this project is to add pictures and possibly a carousel at the top of one of the pages.
 
 
-April 7, 2015
-Most of the time this class period was spent working on and delivering the Elevator Pitch. Not much progress has been made since last week due to conflicting assignments at my home school and how busy I've been toward other things. Some ideas I have to work on next for the website would be the carousel thing, of course, and to place a thumbnail for each news article using the div element with classes of row and column. Those are pretty much all I can think of as far as features go, but I still have to add a lot of content. The last time we got together two weeks ago, we took a couple pictures to be featured on the website. Hopefully we can get some professional pictures to be displayed on the site as well, but that will cost money. Now that I think about it, the only productive thing I did this week was add the logo that was created by another one of our friends to the navbar so that it links to home. After the carousel, article thumbnails, and picture content will be completed I will begin learning how to set up downloads from the website so people can download and listen to some of his tracks.
+April 10, 2015
+Most of the time this class period was spent working on and delivering the Elevator Pitch. Not much progress has been made since last week due to conflicting assignments at my home school and how busy I've been toward other things. Some ideas I have to work on next for the nwebsite would be the carousel thing, of course, and to place a thumbnail for each news article using the div element with classes of row and column. Those are pretty much all I can think of as far as features go, but I still have to add a lot of content. The last time we got together two weeks ago, we took a couple pictures to be featured on the website. Hopefully we can get some professional pictures to be displayed on the site as well, but that will cost money. Now that I think about it, the only productive thing I did this week was add the logo that was created by another one of our friends to the navbar so that it links to home. After the carousel, article thumbnails, and picture content will be completed I will begin learning how to set up downloads from the website so people can download and listen to some of his tracks.
+
+
+April 17, 2015
+Over the last week, I have been working on the carousel part of the website. I have determined that it should be displayed on the News page, where it will show pictures of The Red Scare performing and doing other Red Scare-ish stuff. Now that I think about it, it should probably go on the Home page. I'll decide later, but for now I will keep working on it on the News page. I still have yet to work on the article thumbnails along with decide on how to layout the pictures. Aside from the first couple of weeks, this is really been the slowest part of this project. All the heavy work has been done, and now I'm just focused on content. As I look at the webpage right now, I remembered that I still need to find out how to upload samples of his music to put on the Music/Downloads section. I should also figure out how to create a "download" button where users can simply download select tracks. These are tasks I can hopefully work on this week to better prepare myself for the final deliverable in a couple weeks.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
